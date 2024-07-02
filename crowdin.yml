@@ -1,0 +1,3 @@
+files:
+  - source: /audio_messages_en.yml
+    translation: /audio_messages_%two_letters_code%.yml
